@@ -1,0 +1,543 @@
+﻿[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\hanshu]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\hanshu\01_xinanyi_kaishi.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\hanshu\02_zhuangqiao_wuchidao.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\hanshu\03_hanzhijunxian.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\hanshu\04_pingnan_yi_zangkejun.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\hanshu\05_dianwang_shouyin.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\huayang]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\huayang\nanzhong_01a_open.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\huayang\nanzhong_06b_zhugeliang.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\huayang\nanzhong_09a_tupu.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\kongzi]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\kongzi\mayuan_confucius_portrait.png
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\kongzi\qiuying_kongzi_shengji.png
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\likunsheng]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\likunsheng\xianqin_lianghan_yunnan_nongye.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\lvshi_chunqiu]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\lvshi_chunqiu\rendi.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\lvshi_chunqiu\shangnong.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\lvshi_chunqiu\volume26_open.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\manshu]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\manshu\01a_volume7_open_shuitian.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\manshu\01b_shantian_sang_begin.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\manshu\02a_sang_chousi.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\manshu\02b_salt_tea.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\mingshi]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\mingshi\shihuo_01a_open.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\mingshi\shihuo_09b_tuntian_zhi.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\mingshi\shihuo_11a_yunnan_tun.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\shiji]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\shiji\01_xinanyi_kaishi.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\shiji\02_zhuangqiao_rudian.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\shiji\03_dianwang_hanshuwo.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\shiji\04_dianwang_shouyin.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\shiji\05_taishigong_yue.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\tianqi_dianzhi]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\tianqi_dianzhi\01_cover.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\tianqi_dianzhi\02_linanfu_wuchan.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\tianqi_dianzhi\03_guashu.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\tianqi_dianzhi\04_yongchang_wuchan.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\xintangshu]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\xintangshu\shoushitongkao_juan77_01a.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\xintangshu\shoushitongkao_juan77_01b.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\xintangshu\shoushitongkao_juan77_02a.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\xinzaoyunnan_tongzhi]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\xinzaoyunnan_tongzhi\01_xuezhikao_kongmiao.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\xinzaoyunnan_tongzhi\02_yunnan_wenmiao_map.png
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yuanshi]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yuanshi\dili_01a_yunnan_open.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yuanshi\dili_02a_zhongqing_tuntian.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yuanshi\dili_05a_weichu_tuntian.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tongzhi]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tongzhi\wuchan_01a_xu.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tongzhi\wuchan_02a_gushu.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tongzhi\wuchan_03b_guoshu.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tujing]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tujing\01_cover_page.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tujing\02_neiye.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tujing\03_dali_tuchan.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tujing\04_chenjiang_tuchan.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tujing\05_zhaozhou_tuchan.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ancient_texts\yunnan_tujing\06_heqing_tuchan.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\02_sukapha_migration_epic.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\CN_daomi_zhilu_real_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\CN_daomi_zhilu_real_03.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\CN_daomi_zhilu_real_04.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\CN_daomi_zhilu_real_06.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\HD_rice_origin_map.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\JP_ine_no_michi_real_02.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\JP_ine_no_michi_real_03.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\JP_ine_no_michi_real_04.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\sukapha_migration_epic.png
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\assam_yunnan\sukapha_migration_epic_2.png
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\01_carbonized_rice.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\02_site_aerial.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\04_tomb_urn_coffin.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\05_house_ruins.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\06_trench_aerial.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\07_tombs1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\08_tombs2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\09_tomb17_goods.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\10_3d_scan_tomb.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\11_pot_pottery.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\12_bowl_pottery.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\13_small_jar.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\14_ash_pit.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\15_artifact1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\16_artifact2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\HD_bone_shovel.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\HD_pottery_jar_set.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\HD_stone_axe.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\HD_stone_knife.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\baiyangcun\HD_stone_sickle.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe\01_peacock_ox_head_bronze_hoe.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe\02_official_peacock_ox_bronze_hoe.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe\03_jianye_zhiji_bronze_hoe.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe\09_tixing_bronze_hoe_M57_poster.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe\10_tixing_bronze_hoe_M57_detail.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe\11_tixing_bronze_hoe_M51_poster.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe\12_tixing_bronze_hoe_M51_detail.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe\HD_peacock_ox_bronze_hoe.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\bronze_hoe\official_reference.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian_temple]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian_temple\01_temple_panorama.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian_temple\02_red_wall.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian_temple\03_pan_chi_pond.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian_temple\04_elephant_incense_burner.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\chongxiu_ruxue_ji_text.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\east_stele_hallway_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\east_stele_hallway_06.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\jianshui_wenmiao_aerial.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\jianshui_wenmiao_aerial_02.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\jianshui_wenmiao_building_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\jianshui_wenmiao_building_10.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\jianshui_wenmiao_gongdebei.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\jianshui_wenmiao_panorama.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\jianshui_wenmiao_xuehai_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\jianshui_wenmiao_xuehai_02.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\confucian-temple\west_stele_hallway_01.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\corn_model_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_corn_field.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_corn_husa.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_corn_tech_support.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_shengtain_aifei_1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_shengtain_aifei_2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_shengtain_aifei_3.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_shengtain_aifei_4.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_shengtain_aifei_5.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_shengtain_aifei_6.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_shengtain_aifei_corn.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\mangshi_sweet_corn_seedling.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\midu_corn_1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\midu_corn_2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\midu_corn_3.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\sohu_corn_1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\sohu_corn_2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\sohu_corn_3.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\sohu_corn_4.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\sohu_corn_5.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\sohu_corn_6.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\sohu_corn_7.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\xsbn_corn_field_inspection.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\xsbn_corn_field_workers.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\xsbn_flower_glutinous_corn_closeup.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\xsbn_flower_glutinous_corn_product.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\xsbn_glutinous_corn_harvest.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\ynwang_corn_1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\ynwang_corn_2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\ynwang_corn_3.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\ynwang_corn_4.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\ynwang_corn_5.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\ynwlt_corn_1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\ynwlt_corn_2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\ynwlt_corn_3.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\corn\ynwlt_corn_4.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\potato]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\potato\luliang_potato_1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\potato\luliang_potato_2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\potato\luliang_potato_3.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\potato\potato_model_01.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\sweet_potato]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\sweet_potato\sweet_potato_model_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\sweet_potato\yanshan_sweet_potato_1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\sweet_potato\yanshan_sweet_potato_2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\sweet_potato\yanshan_sweet_potato_3.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\sweet_potato\yanshan_sweet_potato_4.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\sweet_potato\yanshan_sweet_potato_5.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\tobacco]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\tobacco\tobacco_model_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\tobacco\yunnan_tobacco_1.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\tobacco\yunnan_tobacco_2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\tobacco\yunnan_tobacco_3.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\tobacco\yunnan_tobacco_4.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\tobacco\yunnan_tobacco_5.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\crops\tobacco\yunnan_tobacco_6.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\dianchi_paddy]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\dianchi_paddy\dianchi_paddy_field_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\dianchi_paddy\dianchi_paddy_field_02.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\dianchi_paddy\dianchi_paddy_field_03.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\dianchi_paddy\dianchi_paddy_field_04.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\dianchi_paddy\dianchi_paddy_field_05.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\erhai_paddy]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\erhai_paddy\erhai_paddy_field_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\erhai_paddy\erhai_paddy_field_02.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\erhai_paddy\erhai_paddy_field_03.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\erhai_paddy\erhai_paddy_field_04.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\erhai_paddy\erhai_paddy_field_05.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\cansang]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\cansang\luliang_mulberry_field.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\cansang\luliang_silk_production.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\hani_song]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\hani_song\hani_singing.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\hani_song\hani_song_majianchang.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\kaiyangmen]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\kaiyangmen\kaiyangmen_2025_drone.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\kaiyangmen\kaiyangmen_fish.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\kaiyangmen\kaiyangmen_parade.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\kaiyangmen\kaiyangmen_transplanting.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\niuqinjia]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\niuqinjia\cattle_farming.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\niuqinjia\niuqin_jia_coop.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\rice_fish]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\rice_fish\dai_rice_fish_field.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\rice_fish\rice_fish_scenery.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\zitao]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\zitao\zitao_carving.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\zitao\zitao_museum.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\ethnic_culture\zitao\zitao_shaping.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_philosophy]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_philosophy\01_gengzhi_tu_kangxi.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_philosophy\02_liangkai_sericulture.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_philosophy\03_shengmao_binfeng.png
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_philosophy\04_24_solar_terms.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\bronze_hoe_peacock_ox.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\bronze_hoe_zhiji_zhijwen.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\curved_shaft_plough_national_museum.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\dachuangjiao_changquyuanli_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\dachuangjiao_changquyuanli_02.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\dachuangjiao_changquyuanli_03.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\dachuangjiao_quyuanli_01.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\dachuangjiao_quyuanli_02.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\dachuangjiao_quyuanli_03.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\hani_banchu.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\hani_daguchuan.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\hani_raking_field.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\minzu_dianzhong_na.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\minzu_fangche_miao.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\minzu_guanjia_dai.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\minzu_mu_cho_lahu.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\minzu_xiaochutou_hani.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\minzu_xiaowan_chu_tibetan.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\plow_dai_plow_rake.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\plow_hani_traditional.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\plow_nu_cattle_plowing.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\plow_nu_full.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\farming_tools\plow_nu_side.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\01_site_location.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\02_excavation_site.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\03_strata_chart.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\04_wood_tools_diagram.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\05_wood_tool_detail.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\06_stone_tools.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\07_site_overview.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\08_strata_profile.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\09_archaeology_work.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\10_stone_artifacts.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\11_fire_remains.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\12_stone_tools2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\13_stone_cores.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\14_stone_flakes.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\15_bone_tools.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\16_wood_tools2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\17_mammal_fossils.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\18_cut_marks.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\19_location_map.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\HD_stone_scraper_set.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\HD_wood_tool_illustration.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\gantangqing\HD_wood_tools_marks.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\01_carbonized_rice.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\02_rice_grain.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\03_millet.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\04_wheat.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\05_soybean.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\06_buckwheat.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\07_broomcorn_millet.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\08_site_aerial.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\09_excavation_2008.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\10_excavation_site.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\11_site_jianhu.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\12_stone_bone_tools.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\13_bronze_artifacts.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\14_stone_mold.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\15_painted_pot.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\16_rice_fields.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\HD_bronze_axe_knife.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\haimenkou\HD_stone_mold_detail.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\dongping_dahe_wu_iron_hoe.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\national_museum_iron_plough_list.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\national_museum_iron_ploughshare.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\niugeng_huaxiangshi_mizhi.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\sxhm_tie_cha.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\sxhm_tie_chan_jue.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\sxhm_tie_chu.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\sxhm_tie_hua.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\sxhm_tie_li.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\sxhm_tie_pitu.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\han_dynasty_tools\weinan_museum_iron_hoe.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\01_four_elements_diagram.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\02_azheke_mushroom_house.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\03_mushroom_cloud_sea.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\04_cattle_plowing_drone.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\05_water_channel_maintenance.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\06_forest_ranger.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\07_repairing_thatch.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\ancient_terrace_farming_scene.png
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\duoyishu_sunrise.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\hani_terraces_aerial.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\paozhuzhai_2012.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\subsistent_farming.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\terrace_denoised.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\hani_terrace\terrace_field_yunnan_denoised.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai\01_jingmai_panorama_drone.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai\02_forest_tea_intergrowth.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai\03_village_forest_tea.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai\04_bulang_tea_culture.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai\05_bulang_brewing_tea.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai\06_wengji_village.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai\07_tea_picking.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai\jingmai_panorama.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\jingmai\tea_tree_01.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\mountain_farming]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\mountain_farming\farmland_shangrila.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\mountain_farming\tibetan_plowing.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\02_stone_tools.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\03_drilling.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\04_strata_sample.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\05_strata_profile.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\06_layer46_stones.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\07_hearth.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\08_trench_protection.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\HD_pebble_tools.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\HD_site_lincang_gov.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\nongke\HD_stone_tools_lincang.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\puer_tea]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\puer_tea\01_tea_tree_worship.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\puer_tea\02_hand_picking.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\puer_tea\03_wok_fixation.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\puer_tea\04_hand_rolling.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\puer_tea\05_sun_drying.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\puer_tea\06_golden_melon_tea.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\puer_tea\07_craft_master.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\qing_kuangye]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\qing_kuangye\01_diannan_kuangchang_tulue.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\saidianchi]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\saidianchi\saidianchi_portrait.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\farm]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\farm\rice_farm_group_photo.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\farm\rice_practice_farm.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\farm\seedling_transplant_1.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\history]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\history\cansang_school_gate_1904.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\history\old_campus_1904.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\history\old_staff_photo.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\history\old_teaching_scene.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\myanmar_training]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\myanmar_training\asean_agriculture_seminar.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\myanmar_training\myanmar_training_meeting.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\research]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\research\cattle_breeding_award.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\research\dianchonglou_breeding.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\research\rapeseed_variety_cert.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\tech_extension]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\tech_extension\rice_fish_farming.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\tech_extension\rice_shrimp_symbiosis.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section5\tech_extension\tech_specialist_1.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\digital_ag]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\digital_ag\drone_coffee_inspection.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\digital_ag\flower_control_center.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\digital_ag\iot_tea_garden.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\digital_ag\smart_tea_cloud.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\giahs]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\giahs\giahs_yunnan.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\giahs\hani_terrace_clouds.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\giahs\qingkou_village_terrace.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\plateau_ag]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\plateau_ag\coffee_cherry_drying.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\plateau_ag\flower_auction_center.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\plateau_ag\flower_harvesting.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\plateau_ag\smart_flower_greenhouse.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\seed_industry]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section6\seed_industry\space_seeds_germination.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section7\green_dev]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section7\green_dev\terrace_ecological.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section7\new_farmers]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section7\new_farmers\new_farmer_beekeeping.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section7\new_farmers\new_farmer_flower.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section7\new_farmers\new_farmer_pomegranate.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\section7\new_farmers\pomegranate_farm_panorama.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\terrain]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\terrain\01_yunnan_terrain_sandbox.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\chama]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\chama\nakeli_bridge.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\chama\nakeli_drone.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\chama\nakeli_heritage_stele.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\chama\nakeli_watermill.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\dianmian]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\dianmian\huitong_bridge.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\dianmian\wanting_bridge.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\dianyue]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\dianyue\bisezhai_station.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\dianyue\renzi_bridge.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\keshui]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\keshui\keshui_8outlet.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\keshui\keshui_museum.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\keshui\keshui_village.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\songhuaba]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\songhuaba\old_kuiming_water.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\songhuaba\songhuaba_panorama.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\stele]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\stele\hulin_stele_changning.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\waterwheel]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\waterwheel\dragon_bone_waterwheel.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\wuchidao]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\wuchidao\wuchidao_gate.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\wuchidao\wuchidao_horse_hoof.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\water_road\wuchidao\wuchidao_yuanzi_stele.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\wild_rice]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\wild_rice\01_wild_rice_bamboo_habitat.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\wild_rice\02_wild_rice_seedlings.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\wild_rice\03_wild_rice_grain.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\wild_rice\04_wild_rice_guardian.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\wild_rice\05_wild_rice_watering.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\wuchidao]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\wuchidao\01_wuchidao_gate.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\academic_baiyangcun_details.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\academic_dadunzi_flotation.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\academic_yunnan_rice_summary.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\CN_baiyangcun_rice_dalmartello.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\CN_dadunzi_rice_jin2014.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\CN_guangfentou_rice.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\CN_haimenkou_rice_grain.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\CN_shifodong_rice.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\dal_martello_chapter.pdf
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\doc88_page.html
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_archaeological_evidence_panel.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_archaeological_evidence_panel_v2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_baiyangcun_report_excerpt.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_dadunzi_flotation_table.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_fig21_seeds.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_fig22_23_rice_sem.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_09_p085.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_16_p092.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_17_p093.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_18_p094.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_19_p095.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_20_p096.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_21_p097.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_22_p098.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_23_p099.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_24_p100.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_25_p101.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_26_p102.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_27_p103.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_50_p126.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_page_51_p127.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_original_table12_baiyangcun.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_rice_domestication_timeline(1).jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_rice_domestication_timeline.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\HD_rice_domestication_timeline_v2.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\original_page_10.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\original_page_11.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\original_page_17.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\original_page_18.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\original_page_20.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\original_page_21.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\original_page_22.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\yunnan_rice_origin\original_page_23.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\zhuangqiao]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\zhuangqiao\zhuangqiao_rudian_scene.jpg
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\zhuangqiao\zhuangqiao_statue.jpg
+
+[C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\zhugeliang_nanzheng]
+  C:\Users\atmwz\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a60f6e6eedb8709673f2b9d\images\zhugeliang_nanzheng\01_qinqin_menghuo.jpg
+
+
